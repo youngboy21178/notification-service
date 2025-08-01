@@ -81,11 +81,9 @@ Or for SMS:
 ---
 
 
-## 📊 Code Stats
 
-Total Python code lines: **717**
 
-## Sample of usage 
+## ⚙️Sample of usage 
 ```Python 
 
 import requests
@@ -102,3 +100,6 @@ response = requests.post(url, json=payload, headers=headers)
 data = response.json()
 print(data)
 ```
+## 📊 Code Stats
+
+Total Python code lines: **717**
