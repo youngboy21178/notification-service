@@ -78,7 +78,7 @@ You need to pass notification_id in json when “getting” a request
     "status": "scheduled",
     "created_at": "2025-08-01T16:34:46",
     "sent_at": "2025-08-01T20:00:00",
-    "sent_to": "maksym.melnyk.o.2007@gmail.com"
+    "sent_to": "exemple@gmail.com"
 }
 
 ```
