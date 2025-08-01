@@ -67,7 +67,7 @@ You need to pass notification_id in json when “getting” a request
 {
   "notification_id": "aIT8wMJFxjoOk9D2"
 }
-
+```
 #### Response:
 ```json
 {
