@@ -61,7 +61,12 @@ Or for SMS:
 
 ### 📑 Get Notification Report
 
-**GET** `/notification/{message_id}`
+**GET** `/notification`
+You need to pass notification_id in json when “getting” a request
+```json
+{
+  "notification_id": "aIT8wMJFxjoOk9D2"
+}
 
 #### Response:
 ```json
